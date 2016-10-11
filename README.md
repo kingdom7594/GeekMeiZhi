@@ -5,7 +5,7 @@
 此项目中没有一些深奥难懂的概念，但是用了很多优秀的开源库，便于像我一样的新手快速上手开发一款属于自己的APP！
 
 ###项目效果  
-！[演示](https://github.com/kingdom7594/GeekMeiZhi/blob/master/MeiZhi_%25d.gif)
+![演示](https://github.com/kingdom7594/GeekMeiZhi/blob/master/MeiZhi_%25d.gif)
 
 
 
