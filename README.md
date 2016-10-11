@@ -5,7 +5,7 @@
 此项目中没有一些深奥难懂的概念，但是用了很多优秀的开源库，便于像我一样的新手快速上手开发一款属于自己的APP！
 
 ###项目效果  
-！[](https://github.com/kingdom7594/GeekMeiZhi/blob/master/MeiZhi_%25d.gif)
+！[演示](https://github.com/kingdom7594/GeekMeiZhi/blob/master/MeiZhi_%25d.gif)
 
 
 
@@ -15,9 +15,9 @@
 
 
 ###感谢
-*网络处理库Retrofithttps://github.com/square/retrofit  
-*图片加载库Glide [](https://github.com/bumptech/glide)   
-*图片数据来自干货集中营 gank.io/api   
+*网络处理库Retrofit https://github.com/square/retrofit  
+*图片加载库Glide [图片加载](https://github.com/bumptech/glide)   
+*图片数据来自干货集中营 http:gank.io/api   
 *还有一些爱开源的大神博客
   
  
