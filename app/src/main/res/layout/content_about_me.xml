@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.wuji.geekmeizhi.UI.AboutMe"
+    tools:showIn="@layout/activity_about_me"
+    android:paddingTop="45dp">
+
+   <!-- <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/text_margin"
+        android:text="@string/large_text" />-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1"
+        android:gravity="center_horizontal">
+
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView1"
+            android:src="@drawable/dream"
+            android:scaleType="centerCrop"
+            app:riv_corner_radius="30dip"
+            app:riv_border_width="2dip"
+            app:riv_border_color="#333333"
+            app:riv_mutate_background="true"
+            app:riv_tile_mode="repeat"
+            app:riv_oval="true"
+            android:adjustViewBounds="true" />
+
+        <android.support.v7.widget.CardView
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            app:cardElevation="12dp"
+            app:cardCornerRadius="16dp"
+            android:paddingLeft="50dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:autoLink="web"
+            android:text="博客园：www.cnblogs.com/xiaoking"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="15dp" />
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="15dp"
+        app:cardElevation="12dp"
+        app:cardCornerRadius="16dp">
+
+        <TextView
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:autoLink="web"
+            android:text="Github：https://github.com/kingdom7594"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="15dp" />
+
+    </android.support.v7.widget.CardView>
+
+ </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>
