@@ -15,9 +15,10 @@
 
 
 ###感谢
-*网络处理库Retrofit https://github.com/square/retrofit  
-*图片加载库Glide [图片加载](https://github.com/bumptech/glide)   
-*图片数据来自干货集中营 http:gank.io/api   
-*还有一些爱开源的大神博客
+
+* 网络处理库Retrofit https://github.com/square/retrofit  
+* 图片加载库Glide    https://github.com/bumptech/glide  
+* 图片数据来自干货集中营 http://gank.io/api   
+* 还有一些爱开源的大神博客
   
  
