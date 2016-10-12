@@ -6,7 +6,7 @@ ___________________________________
 ###项目效果 
 
 ![](https://github.com/kingdom7594/GeekMeiZhi/blob/master/art/picture1.png) 
-![](https://github.com/kingdom7594/GeekMeiZhi/blob/master/art/picture2.png)   
+  
 *********
 ###感谢
 
